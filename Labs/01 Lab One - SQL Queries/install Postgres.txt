@@ -1,3 +1,0 @@
-This is a long install. You only need the database. No need to explain anything else.
-
-https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
